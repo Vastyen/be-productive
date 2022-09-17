@@ -14,12 +14,14 @@ Just open. Now read something, be productive or I don't know.
 
 ## Libraries and Utilities
 
-[Pyinstaller](http://pyinstaller.org/)
-[PYW](https://www.python.org/search/?q=pyw&submit=)
-[CustomTkinter](https://libraries.io/pypi/customtkinter)
-[OS](https://docs.python.org/3/library/os.html)
-[Psutil](https://pypi.org/project/psutil/)
-[Time](https://docs.python.org/3/library/time.html)
+[Python3](https://www.python.org))                                                       
+                  
+[Pyinstaller](http://pyinstaller.org/)                         
+[PYW](https://www.python.org/search/?q=pyw&submit=)                        
+[CustomTkinter](https://libraries.io/pypi/customtkinter)                  
+[OS](https://docs.python.org/3/library/os.html)                  
+[Psutil](https://pypi.org/project/psutil/)                  
+[Time](https://docs.python.org/3/library/time.html)                  
 
 
 ## Contributing

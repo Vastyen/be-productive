@@ -1,0 +1,6 @@
+LeagueClient.exe
+VALORANT-Win64-Shipping.exe
+csgo.exe
+Java TM Platform SE Binary.exe
+vgtray.exe
+javaw.exe

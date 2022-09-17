@@ -1,7 +1,9 @@
+Made it with love by Bastián Escribano & Daniel Catalán
+
+
 # Be productive with us.
 
 We close the trash for you. 🗑️
-
 
 
 ## Why?

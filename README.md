@@ -26,8 +26,11 @@ Just open. Now read something, be productive or I don't know.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Make sure you have installed the libraries.
 
-
+      pip install customtkinter
+      pip install pstuil
+      pip install pyinstaller
 
 Please make sure to update tests as appropriate.
 

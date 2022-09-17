@@ -34,7 +34,11 @@ Make sure you have installed the libraries.
 
 Please make sure to update tests as appropriate.
 
+## Authors
 
+We did this software with academic purposes. 
+With love, 
+   Bastián Escribano & Daniel Catalán.
 
 ## License
 

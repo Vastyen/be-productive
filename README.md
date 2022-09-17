@@ -14,8 +14,7 @@ Just open. Now read something, be productive or I don't know.
 
 ## Libraries and Utilities
 
-[Python3](https://www.python.org))                                                       
-                  
+[Python3](https://www.python.org)                                                                                      
 [Pyinstaller](http://pyinstaller.org/)                         
 [PYW](https://www.python.org/search/?q=pyw&submit=)                        
 [CustomTkinter](https://libraries.io/pypi/customtkinter)                  

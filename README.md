@@ -36,9 +36,11 @@ Please make sure to update tests as appropriate.
 
 ## Authors
 
+Bastián Escribano & Daniel Catalán.                            
+
 We did this software with academic purposes.             
-With love,               
-    Bastián Escribano & Daniel Catalán.
+     
+    
 
 ## License
 

@@ -4,3 +4,4 @@ csgo.exe
 Java TM Platform SE Binary.exe
 vgtray.exe
 javaw.exe
+RiotClientServices.exe

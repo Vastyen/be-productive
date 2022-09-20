@@ -40,13 +40,14 @@ def button_function():
     global started
     started = True
     print("Started")
+    messagebox.showinfo(message="Be Productive has Started", title="Be Productive")
     app.wm_state('iconic')
-    os.system("start killer.exe")
+    os.system("start closer.exe")
 
 def button_function2():
     global started
     if (started):
-        os.system("taskkill /F /IM killer.exe")
+        os.system("taskkill /F /IM closer.exe")
         started = False
         print("Down")
     else:

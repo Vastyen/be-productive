@@ -44,4 +44,4 @@ We did this software with academic purposes.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GPLV2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)

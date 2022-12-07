@@ -17,7 +17,7 @@ Just open. Now read something, be productive or I don't know.
 [Python3](https://www.python.org)                                                                                      
 [Pyinstaller](http://pyinstaller.org/)                         
 [PYW](https://www.python.org/search/?q=pyw&submit=)                        
-[CustomTkinter](https://libraries.io/pypi/customtkinter)                  
+[CustomTkinter 4.6.3](https://libraries.io/pypi/customtkinter)                  
 [OS](https://docs.python.org/3/library/os.html)                  
 [Psutil](https://pypi.org/project/psutil/)                  
 [Time](https://docs.python.org/3/library/time.html)                  
@@ -28,7 +28,7 @@ Just open. Now read something, be productive or I don't know.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Make sure you have installed the libraries.
 
-      pip install customtkinter
+      pip install customtkinter==4.6.3
       pip install pstuil
       pip install pyinstaller
 
